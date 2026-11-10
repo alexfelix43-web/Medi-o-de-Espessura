@@ -1,0 +1,32 @@
+{
+ "name": "Medição de Espessura UT",
+ "short_name": "Espessura UT",
+ "description": "Relatórios de medição de espessura por ultrassom com histórico automático",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#f3faf6",
+ "theme_color": "#2e9e63",
+ "lang": "pt",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
